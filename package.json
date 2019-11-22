@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "eslint-plugin-rxjs": "0.0.1-beta.5"
+  }
+}
